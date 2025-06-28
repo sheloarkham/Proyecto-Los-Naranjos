@@ -11,9 +11,9 @@ Establecimiento del Proyecto "Los Naranjos": Se inició la fase de desarrollo pa
 
 Identificación de la Necesidad de Representaciones Visuales: Se reconoció que, en la primera unidad, el proyecto carecía de representaciones visuales, por que realmente no realizamos un prototipo completo solo algunas piezas sueltas de prototipado como mvp hechos en canva, lo que generaba ambigüedades. Esto impulsó la necesidad de utilizar herramientas de prototipado mas complejas en este caso usamos figma para validar la experiencia de usuario y la lógica operativa del sistema.
 
-# Fecha: 2025-06-2 (Desarrollo del Prototipo y Diseño Visual)
+# Fecha: 2025-06-22 (Desarrollo del Prototipo y Diseño Visual)
 
-Prototipo Visual del MVP del Restaurante "Los Naranjos": Se desarrolló un prototipo funcional e interactivo, accesible vía Figma (https://www.figma.com/design/CDdIxgcIBR1Eoq4j49M6rV/Restaurant-Website-UI-Template--Community-?node-id=146-557&t=JErOlVo7Az6chBeB-0). Este prototipo incluyó las siguientes secciones y características principales:
+## Prototipo Visual del MVP del Restaurante "Los Naranjos": Se desarrolló un prototipo funcional e interactivo, accesible vía Figma (https://www.figma.com/design/CDdIxgcIBR1Eoq4j49M6rV/Restaurant-Website-UI-Template--Community-?node-id=146-557&t=JErOlVo7Az6chBeB-0). Este prototipo incluyó las siguientes secciones y características principales:
 
 Página de Inicio: La primera impresión digital del restaurante.
 
@@ -31,7 +31,7 @@ Pie de Página: Con información relevante del establecimiento.
 
 Diseño Visual Integrado: El diseño se concibió como un sistema integral de gestión que materializa las especificaciones técnicas funcionales y no funcionales.
 
-# Fecha: 2025-06-XX (Definición Detallada de Requisitos Funcionales y No Funcionales)
+# Fecha: 2025-06-23 (Definición Detallada de Requisitos Funcionales y No Funcionales)
 
 Historias de Usuario y Criterios de Aceptación: Se definieron y documentaron las funcionalidades clave del sistema para el restaurante "Los Naranjos", desglosadas por roles:
 
@@ -57,10 +57,10 @@ Accesibilidad: Se aseguró un contraste de colores adecuado, tipografía legible
 
 Internacionalización y Localización: Se utilizaron textos en español neutro, con una estructura adaptable para incorporar otros idiomas en el futuro.
 
-# Fecha: 2025-06-XX (Pruebas del Prototipo y Validación)
+# Fecha: 2025-06-28 (Pruebas del Prototipo y Validación)
 
 Realización de Pruebas Visuales/Funcionales del Prototipo: Se llevaron a cabo pruebas sobre el prototipo interactivo para validar la experiencia de usuario y la lógica operativa. La imagen adjunta (image_159905.png) muestra los resultados de estas pruebas, evidenciando los escenarios probados y la respuesta del prototipo.
 
-
+## <img width="382" alt="image" src="https://github.com/user-attachments/assets/eec394ff-1abd-4135-8c0b-d84d5e270fdc" />
 
 Validación de Flujos: Estas pruebas permitieron validar la navegación, las interacciones con el menú, el proceso de reserva y el funcionamiento de los formularios, asegurando que el diseño cumple con los requisitos definidos antes de la fase de desarrollo real.
