@@ -64,7 +64,7 @@ Diseño Visual Integrado: El diseño se concibió como un sistema integral de ge
 Realización de Pruebas Visuales/Funcionales del Prototipo: Se llevaron a cabo pruebas sobre el prototipo interactivo para validar la experiencia de usuario y la lógica operativa. La imagen adjunta (image_159905.png) muestra los resultados de estas pruebas, evidenciando los escenarios probados y la respuesta del prototipo.
 
 ## <img width="382" alt="image" src="https://github.com/user-attachments/assets/eec394ff-1abd-4135-8c0b-d84d5e270fdc" />
-##<img width="593" alt="image" src="https://github.com/user-attachments/assets/59bd77f5-537c-42d2-ac5c-53127eda9cfe" />
+## <img width="593" alt="image" src="https://github.com/user-attachments/assets/59bd77f5-537c-42d2-ac5c-53127eda9cfe" />
 
 
 Validación de Flujos: Estas pruebas permitieron validar la navegación, las interacciones con el menú, el proceso de reserva y el funcionamiento de los formularios, asegurando que el diseño cumple con los requisitos definidos antes de la fase de desarrollo real.
