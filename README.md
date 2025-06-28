@@ -43,6 +43,9 @@ Identificación de la Necesidad de Representaciones Visuales: Se reconoció que,
 
 ## 🔗 [Ver prototipo interactivo en Figma](https://www.figma.com/design/CDdIxgcIBR1Eoq4j49M6rV/Restaurant-Website-UI-Template--Community-?node-id=0-1&p=f&t=OVwq51X0iYHlIGHS-0)
 
+### <img width="529" alt="image" src="https://github.com/user-attachments/assets/9d6c08f4-b15c-40ca-84c7-6def83ada768" />
+
+
 
 Página de Inicio: La primera impresión digital del restaurante.
 
