@@ -41,6 +41,9 @@ Identificación de la Necesidad de Representaciones Visuales: Se reconoció que,
 
 ## Prototipo Visual del MVP del Restaurante "Los Naranjos": Se desarrolló un prototipo funcional e interactivo, accesible vía Figma (https://www.figma.com/design/CDdIxgcIBR1Eoq4j49M6rV/Restaurant-Website-UI-Template--Community-?node-id=146-557&t=JErOlVo7Az6chBeB-0). Este prototipo incluyó las siguientes secciones y características principales:
 
+## 🔗 [Ver prototipo interactivo en Figma](https://www.figma.com/design/CDdIxgcIBR1Eoq4j49M6rV/Restaurant-Website-UI-Template--Community-?node-id=0-1&p=f&t=OVwq51X0iYHlIGHS-0)
+
+
 Página de Inicio: La primera impresión digital del restaurante.
 
 Opciones de Categorías y Platos Destacados: Facilitando la exploración del menú.
